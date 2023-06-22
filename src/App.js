@@ -1,24 +1,15 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
-import PrivacyPolicy from "./component/Privacy-Policy";
+import { Routes, Route } from "react-router-dom";
+import PrivacyPolicy from "./component/PrivacyPolicy";
 import Terms from "./component/Terms";
 import Support from "./component/Support";
 import "./App.css";
+import logo from './component/icon/logo.png';
 
 const App = () => {
   return (
     <>
-      <div>
-        <li>
-          <Link to="/privacy-policy">Privacy Policy</Link>
-        </li>
-        <li>
-          <Link to="/terms">Terms</Link>
-        </li>
-        <li>
-          <Link to="/support">Support</Link>
-        </li>
-      </div>
+    <img src={logo} alt="logo" id="logo" width={'260px'} />
       <Routes>
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<Terms />} />

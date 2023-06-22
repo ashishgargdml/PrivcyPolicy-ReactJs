@@ -7,18 +7,18 @@ const PrivacyPolicy = () => {
       <p className="Policy-text">
         At Playdates, your privacy is a top priority. We appreciate that you put
         your trust in us when you provide us with your information and we do not
-        take this lightly. <br /> We strive to be transparent in the way we
-        process your data. We actually want you to read our policies and
-        understand our privacy practices.{" "}
+        take this lightly. We strive to be transparent in the way we process
+        your data. We actually want you to read our policies and understand our
+        privacy practices.
       </p>
       <h2 className="policy-heading">PRIVACY POLICY</h2>
       <p className="Policy-text">
         Welcome to Playdates’s Privacy Policy. Thank you for taking the time to
-        read it. <br /> We appreciate that you trust us with your information
-        and we intend to always keep that trust. <br /> This starts with making
-        sure you understand the information we collect, why we collect it, how
-        it is used and your choices regarding your information. This Policy
-        describes our privacy as simply as possible.{" "}
+        read it. We appreciate that you trust us with your information and we
+        intend to always keep that trust.This starts with making sure you
+        understand the information we collect, why we collect it, how it is used
+        and your choices regarding your information. This Policy describes our
+        privacy as simply as possible.
       </p>
       <h3 className="policy-subheading">
         This Privacy Policy applies beginning 3/1/2022.
@@ -76,10 +76,9 @@ const PrivacyPolicy = () => {
         If you live in the European Union, the company that is responsible for
         your information under this Privacy Policy (the “data controller”) is:
       </p>
-      <p className="Policy-text">
-        {" "}
-        David Lee <br /> 3336 San Leandro Street <br /> Oakland, CA 94602{" "}
-      </p>
+      <address className="Policy-text">
+        David Lee <br /> 3336 San Leandro Street <br /> Oakland, CA 94602
+      </address>
       <h2 className="policy-heading" id="2">
         2. WHERE THIS PRIVACY POLICY APPLIES
       </h2>
@@ -87,10 +86,9 @@ const PrivacyPolicy = () => {
         This Privacy Policy applies to websites, apps, events and other services
         operated by Playdates. For simplicity, we refer to all of these as our
         “services” in this Privacy Policy. To make it extra clear, we’ve added
-        links to this Privacy Policy on all applicable services.{" "}
+        links to this Privacy Policy on all applicable services.
       </p>
       <p className="Policy-text">
-        {" "}
         Some services may require their own unique privacy policy. If a
         particular service has its own privacy policy, then that policy -- not
         this Privacy Policy -- applies.
@@ -102,7 +100,7 @@ const PrivacyPolicy = () => {
         We also collect information generated as you use our services, for
         example access logs, as well as information from third parties, like
         when you access our services through a social media account. If you want
-        additional info, we go into more detail below.{" "}
+        additional info, we go into more detail below.
       </p>
       <h3 className="policy-subheading">Information you give us</h3>
       <p className="Policy-text">
@@ -197,7 +195,7 @@ const PrivacyPolicy = () => {
         </li>
         <li>
           Device information - We collect information from and about the
-          device(s) you use to access our services, including:{" "}
+          device(s) you use to access our services, including:
           <ul>
             <li>
               Hardware and software information such as IP address, device ID
@@ -236,15 +234,15 @@ const PrivacyPolicy = () => {
       <p className="Policy-text">
         We use and may allow others to use cookies and similar technologies
         (e.g., web beacons, pixels) to recognize you and/or your device(s). You
-        may read our{" "}
+        may read our
         <a href="https://hingeapp.zendesk.com/hc/en-us/articles/360004791254-Cookie-Policy">
           Cookie Policy
-        </a>{" "}
+        </a>
         for more information on why we use them (such as authenticating you,
         remembering your preferences and settings, analyzing site traffic and
         trends, delivering and measuring the effectiveness of advertising
         campaigns, allowing you to use social features) and how you can better
-        control their use, through your browser settings and other tools. <br />{" "}
+        control their use, through your browser settings and other tools. <br />
         Some web browsers (including Safari, Internet Explorer, Firefox and
         Chrome) have a “Do Not Track” (“DNT”) feature that tells a website that
         a user does not want to have his or her online activity tracked. If a
@@ -252,7 +250,7 @@ const PrivacyPolicy = () => {
         can block that website from collecting certain information about the
         browser’s user. Not all browsers offer a DNT option and DNT signals are
         not yet uniform. For this reason, many businesses, including Playdates,
-        do not currently respond to DNT signals.{" "}
+        do not currently respond to DNT signals.
       </p>
       <h3 className="policy-heading" id="5">
         5. HOW WE USE INFORMATION
@@ -262,7 +260,7 @@ const PrivacyPolicy = () => {
         services. Additionally, we use your info to help keep you safe and to
         provide you with advertising that may be of interest to you. Read on for
         a more detailed explanation of the various reasons we use your
-        information, together with practical examples.{" "}
+        information, together with practical examples.
       </p>
       <p className="Policy-text">
         To administer your account and provide our services to you
@@ -301,7 +299,7 @@ const PrivacyPolicy = () => {
         </li>
         <li>
           Communicate with you by email, phone, social media or mobile device
-          about products or services that we think may interest you{" "}
+          about products or services that we think may interest you
         </li>
       </ul>
       <p className="Policy-text">
@@ -365,7 +363,7 @@ const PrivacyPolicy = () => {
           Consent: From time to time, we may ask for your consent to use your
           information for certain specific reasons. You may withdraw your
           consent at any time by contacting us at the address provided at the
-          end of this Privacy Policy.{" "}
+          end of this Privacy Policy.
         </li>
       </ul>
       <h2 className="policy-heading" id="6">
@@ -397,7 +395,7 @@ const PrivacyPolicy = () => {
       </p>
       <p className="Policy-text">
         <span className="policy-bold-heading">
-          With our service providers and partners.{" "}
+          With our service providers and partners.
         </span>
         We use third parties to help us operate and improve our services. These
         third parties assist us with various tasks, including data hosting and
@@ -410,7 +408,7 @@ const PrivacyPolicy = () => {
       <p className="Policy-text">
         We follow a strict vetting process prior to engaging any service
         provider or working with any partner. All of our service providers and
-        partners must agree to strict confidentiality obligations.{" "}
+        partners must agree to strict confidentiality obligations.
       </p>
       <ul>
         <li>For corporate transactions</li>
@@ -429,7 +427,7 @@ const PrivacyPolicy = () => {
         with a legal process, such as a court order, subpoena or search warrant,
         government / law enforcement investigation or other legal requirements;
         (ii) to assist in the prevention or detection of crime (subject in each
-        case to applicable law); or (iii) to protect the safety of any person.{" "}
+        case to applicable law); or (iii) to protect the safety of any person.
       </p>
       <ul>
         <li>To enforce legal rights</li>
@@ -440,7 +438,7 @@ const PrivacyPolicy = () => {
         protect our legal rights and legal rights of our users, business
         partners or other interested parties; (iii) to enforce our agreements
         with you; and (iv) to investigate, prevent, or take other action
-        regarding illegal activity, suspected fraud or other wrongdoing.{" "}
+        regarding illegal activity, suspected fraud or other wrongdoing.
       </p>
       <ul>
         <li>With your consent or at your request</li>
@@ -460,7 +458,7 @@ const PrivacyPolicy = () => {
         additional non-personal information or personal information in hashed,
         non-human readable form collected from other sources. More information
         on our use of cookies and similar technologies can be found in our
-        Cookie Policy.{" "}
+        Cookie Policy.
       </p>
       <h2 className="policy-heading" id="7">
         7. CROSS-BORDER DATA TRANSFERS
@@ -475,7 +473,7 @@ const PrivacyPolicy = () => {
         other suitable safeguard to permit data transfers from the EEA to other
         countries. Standard contractual clauses are commitments between
         companies transferring personal data, binding them to protect the
-        privacy and security of your data.{" "}
+        privacy and security of your data.
       </p>
       <h2 className="policy-heading" id="8">
         8. YOUR RIGHTS
@@ -490,7 +488,7 @@ const PrivacyPolicy = () => {
           help you to access, rectify or delete information that you provided to
           us and that’s associated with your account directly within the
           service. If you have any question on those tools and settings, please
-          contact our customer care team for help.{" "}
+          contact our customer care team for help.
         </li>
         <li>
           Device permissions. Mobile platforms have permission systems for
@@ -516,13 +514,13 @@ const PrivacyPolicy = () => {
           right to review the personal information we keep about you (depending
           on the jurisdiction, this may be called right of access, right of
           portability or variations of those terms). You can request a copy of
-          your personal information by putting in such a request.{" "}
+          your personal information by putting in such a request.
         </li>
         <li>
           Updating your information. If you believe that the information we hold
           about you is inaccurate or that we are no longer entitled to use it
           and want to request its rectification, deletion or object to its
-          processing, please contact us.{" "}
+          processing, please contact us.
         </li>
       </ul>
       <p className="Policy-text">
@@ -537,13 +535,13 @@ const PrivacyPolicy = () => {
         receive information relating to another user, such as a copy of any
         messages you received from him or her through our service, the other
         user will have to contact our Privacy Officer to provide their written
-        consent before the information is released.{" "}
+        consent before the information is released.
       </p>
       <p className="Policy-text">
         Also, we may not be able to accommodate certain requests to object to
         the processing of personal information, notably where such requests
         would not allow us to provide our service to you anymore. For instance,
-        we cannot provide our service if we do not have your date of birth.{" "}
+        we cannot provide our service if we do not have your date of birth.
       </p>
       <ul>
         <li>
@@ -553,7 +551,7 @@ const PrivacyPolicy = () => {
           identifier associated with your device will continue to be stored. If
           you re-install the application on the same mobile device, we will be
           able to re-associate this identifier to your previous transactions and
-          activities.{" "}
+          activities.
         </li>
         <li>
           Accountability. In certain countries, including in the European Union,
@@ -561,7 +559,7 @@ const PrivacyPolicy = () => {
           protection authority if you have concerns about how we process your
           personal information. The data protection authority you can lodge a
           complaint with notably may be that of your habitual residence, where
-          you work or where we are established.{" "}
+          you work or where we are established.
         </li>
       </ul>
       <h2 className="policy-heading" id="9">
@@ -571,7 +569,7 @@ const PrivacyPolicy = () => {
         For Users who are California residents, you have the following rights
         (in addition to those listed at section 10 below) under the California
         Consumer Privacy Act, and you have the right to be free from unlawful
-        discrimination for exercising your rights under the Act:{" "}
+        discrimination for exercising your rights under the Act:
       </p>
       <ul>
         <li>
@@ -590,7 +588,7 @@ const PrivacyPolicy = () => {
         asking about the businesses’ practices related to disclosing personal
         information to third parties for the third parties’ direct marketing
         purposes. If you wish to find out about any rights you may have under
-        California Civil Code section 1798.83, please contact us.{" "}
+        California Civil Code section 1798.83, please contact us.
       </p>
       <p className="Policy-text">
         From time to time, as part of a joint promotion with a third party, we
@@ -599,7 +597,7 @@ const PrivacyPolicy = () => {
         services to you. Where this is a condition for participation in a
         promotion, we will always let you know before when you enter the
         promotion. Please follow the instructions provided to you by third
-        parties to unsubscribe from their messages.{" "}
+        parties to unsubscribe from their messages.
       </p>
       <p className="Policy-text">
         In addition, under California law, operators of online services are
@@ -625,16 +623,15 @@ const PrivacyPolicy = () => {
         disclosure or destruction of your personal information. As with all
         technology companies, although we take steps to secure your information,
         we do not promise, and you should not expect, that your personal
-        information will always remain secure.{" "}
+        information will always remain secure.
       </p>
       <p className="Policy-text">
         We regularly monitor our systems for possible vulnerabilities and
         attacks and regularly review our information collection, storage and
         processing practices to update our physical, technical and
-        organizational security measures.{" "}
+        organizational security measures.
       </p>
       <p className="Policy-text">
-        {" "}
         We may suspend your use of all or part of the services without notice if
         we suspect or detect any breach of security. If you believe that your
         account or information is no longer secure, please notify us
@@ -697,12 +694,12 @@ const PrivacyPolicy = () => {
       </h2>
       <p className="Policy-text">
         If you have questions about this Privacy Policy, here’s how you can
-        reach us: If you live in the{" "}
+        reach us: If you live in the
       </p>
       <h2 className="policy-heading">US Contact:</h2>
-      <p className="Policy-text">
-        David Lee <br /> 3336 San Leandro Street <br /> Oakland, CA 94601{" "}
-      </p>
+      <address className="Policy-text">
+        David Lee <br /> 3336 San Leandro Street <br /> Oakland, CA 94601
+      </address>
     </div>
   );
 };
