@@ -1,15 +1,68 @@
-.Policy-text{
-
+body {
+  font-family: "Times New Roman";
+  margin: auto;
+  width: 80%;
+  line-height: 1.5;
+  background-color: #9ac791;
 }
 
-.policy-heading{
-    
+.policy-container {
+  border-radius: 20px;
+  background: rgba(236, 252, 243, 0.79);
+  padding: 1.5em;
 }
 
-.policy-bold-heading{
-    
+.support-container {
+  border-radius: 20px;
+  background: rgba(236, 252, 243, 0.79);
+  padding: 1.5em;
+  height: 100vh;
 }
 
-.policy-subheading{
+.Policy-text {
+  color: rgb(79, 128, 130);
+  margin-left: 2em;
+  font-size: 15px;
+}
 
+.policy-heading {
+  color: rgba(0, 100, 100);
+  font-size: 30px;
+}
+
+.policy-bold-heading {
+  font-weight: bolder;
+  font-size: 22px;
+}
+
+.policy-subheading {
+  color: rgb(79, 128, 130);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+ul {
+  list-style: circle;
+  color: rgb(79, 128, 130);
+  font-weight: bold;
+  background: rgba(236, 252, 243, 0.79);
+  border-radius: 1.2rem;
+  padding: 1rem;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  color: darkcyan;
+}
+
+.content-style {
+  list-style: url("./component/icon/icons8-tick.svg");
+}
+
+li {
+  margin-left: 1rem;
 }
