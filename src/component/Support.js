@@ -3,6 +3,7 @@ import React from "react";
 const Support = () => {
   return (
     <div className="support-container">
+    <h1 className="policy-title">SUPPORT</h1>
       <h1 className="support-heading">Support</h1>
       <div className="policy-text">
         "Playdates was created to bring people together in real life for

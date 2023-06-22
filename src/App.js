@@ -11,7 +11,7 @@ const App = () => {
     <>
     <img src={logo} alt="logo" id="logo" width={'260px'} />
       <Routes>
-        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<Terms />} />
         <Route path="/support" element={<Support />} />
       </Routes>

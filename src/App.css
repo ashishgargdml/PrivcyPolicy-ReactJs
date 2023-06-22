@@ -33,7 +33,7 @@ a {
 
 .policy-container {
   border-radius: 20px;
-  padding: 1em;
+  /* padding: 1em; */
 }
 
 .Policy-text {
@@ -43,7 +43,6 @@ a {
 .policy-heading {
   padding: 0.4em 0.5em;
   border-radius: 10px;
-  background-color:rgb(255, 235, 212);
 }
 
 .policy-bold-heading {
@@ -54,11 +53,16 @@ a {
 .policy-subheading {
   padding: 0.2em 0.6em;
   border-radius: 10px;
-  background-color: rgb(221, 235, 227);
 }
 
 /* support page style */
 
 .support-container {
   height: 100vh;
+}
+
+.policy-title {
+  text-align: center;
+  margin-bottom: 1.5em;
+  text-decoration: underline;
 }

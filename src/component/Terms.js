@@ -3,6 +3,7 @@ import React from "react";
 const Terms = () => {
   return (
     <div className="policy-container">
+    <h1 className="policy-title">TERMS OF SERVICES</h1>
       <h2 className="policy-heading">Playdates Terms and Conditions of Use</h2>
       <p className="Policy-text">
         Welcome to Playdates’s Terms and Conditions of Use (these “Terms”). This

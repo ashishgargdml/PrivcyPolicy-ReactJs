@@ -3,6 +3,7 @@ import React from "react";
 const PrivacyPolicy = () => {
   return (
     <div className="policy-container">
+    <h1 className="policy-title">PRIVACY POLICY</h1>
       <h2 className="policy-heading">OUR COMMITMENT TO YOU</h2>
       <p className="Policy-text">
         At Playdates, your privacy is a top priority. We appreciate that you put
